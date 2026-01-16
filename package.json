@@ -21,6 +21,8 @@
     ],
     "scripts": {
         "build": "rollup -c",
+        "test": "vitest run",
+        "test:watch": "vitest",
         "prepublishOnly": "npm run build"
     },
     "keywords": [
@@ -35,17 +37,18 @@
         "gfm",
         "github-flavored-markdown"
     ],
-    "author": "",
+    "author": "Joulessies",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git+https://github.com/Joulessies/markdown-table-repair.git"
     },
     "bugs": {
-        "url": ""
+        "url": "https://github.com/Joulessies/markdown-table-repair/issues"
     },
-    "homepage": "",
+    "homepage": "https://github.com/Joulessies/markdown-table-repair#readme",
     "devDependencies": {
-        "rollup": "^4.9.0"
+        "rollup": "^4.9.0",
+        "vitest": "^3.0.0"
     }
 }

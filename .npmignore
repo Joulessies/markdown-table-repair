@@ -1,0 +1,19 @@
+# Development files
+rollup.config.js
+.gitignore
+
+# Test files
+test/
+*.test.js
+vitest.config.js
+
+# CI/CD
+.github/
+
+# Documentation
+CONTRIBUTING.md
+CHANGELOG.md
+
+# Misc
+.DS_Store
+*.log
