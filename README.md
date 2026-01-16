@@ -189,3 +189,7 @@ Some other content here.
 ## License
 
 MIT
+<<<<<<< HEAD
+=======
+
+>>>>>>> 752ef09b3f1fff3df7477742725257db58066fae
