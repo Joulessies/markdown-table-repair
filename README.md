@@ -189,4 +189,4 @@ Some other content here.
 ## License
 
 MIT
-# markdown-table-repair
+
